@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="hatbazar:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hatbazar.war">
+      <element id="artifact" artifact-name="hatbazar:war exploded" />
+    </root>
+  </artifact>
+</component>
